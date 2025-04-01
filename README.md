@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Silana Lite - Official Repository
 
 Welcome to the official repository of **Silana Lite**, a WhatsApp bot built using `Baileys`, featuring many advanced capabilities.
@@ -35,3 +36,7 @@ If you’d like to contribute to the development of this project, feel free to `
 ---
 
 **Follow me on my platforms for more updates and upcoming projects!** 🚀
+=======
+# bot-whattsap
+whattsap bot 
+>>>>>>> b1e9919c4df2e0cbf481212bd174e261ba8814f5
